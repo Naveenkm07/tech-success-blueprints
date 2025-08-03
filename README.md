@@ -42,7 +42,7 @@ These blueprints help:
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/<your-username>/tech-success-blueprints.git
+   git clone https://github.com/naveenkm07/tech-success-blueprints.git
 2. Browse the folders to access PDF and DOCX guides.
 3. Download any file you want to view or share.
 
